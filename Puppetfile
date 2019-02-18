@@ -21,7 +21,7 @@ mod 'ssh',
 
 mod 'ntp',
   :git  => 'https://github.com/rivethead42/puppet-ntp.git',
-  :ref  => 'master
+  :ref  => 'master'
 
 mod 'profile',
   :git  => 'https://github.com/rivethead42/puppet-profile.git',
